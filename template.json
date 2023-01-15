@@ -1,0 +1,14 @@
+{
+  "package": {
+    "dependencies": {
+      "prettier": "^2.8.1"
+    },
+     "scripts": {
+      "deploy": "npm run build && surge build",
+      "lint": "prettier --write 'src/**/*'"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    }
+  }
+}

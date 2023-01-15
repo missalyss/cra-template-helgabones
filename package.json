@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-helgabones",
+  "version": "1.0.0",
+  "description": "create-react-app template for missalyss",
+  "main": "template.json",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missalyss/cra-template-helgabones.git"
+  },
+  "author": "missalyss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missalyss/cra-template-helgabones/issues"
+  },
+  "homepage": "https://github.com/missalyss/cra-template-helgabones#readme"
+}
